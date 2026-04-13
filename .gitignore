@@ -19,6 +19,8 @@ venv/
 
 # Secrets
 .env
+env/
+
 
 configs/
 

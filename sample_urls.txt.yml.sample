@@ -1,0 +1,13 @@
+# Add your standalone page validation URLs here.
+# Format: category: URL
+# Lines starting with '#' are ignored.
+
+standalone: https://amsin.hirepro.in 
+standalone: https://amsin.hirepro.in
+standalone: https://amsin.hirepro.in
+
+# ------------------------------------------------------------------
+# GENERIC ASSESSMENT URL — update this before each run:
+# ------------------------------------------------------------------
+generic: https://ain.hirepro.in/F7gOPqMm
+devops: https://ain.hirepro.in/gHIsksyz
